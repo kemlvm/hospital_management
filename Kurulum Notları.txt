@@ -1,0 +1,12 @@
+xampp server indirmelisin öncelikle
+
+indirdikten sonra images kısmına gel
+orada benim açtıklarımın aynısını aç 
+
+sonra google girip 
+
+localhost/phpmyadmin yaz
+
+hospital_administrator adında bir yeni veritabanı aç
+
+sonra sana klasörde verdigim sql dosyasını buradan içeri aktar ve işlemler bu kadar başka bir şeye dokunmaya gerek yok
